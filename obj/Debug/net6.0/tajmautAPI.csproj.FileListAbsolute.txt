@@ -1,0 +1,194 @@
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.csproj.AssemblyReference.cache
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.AssemblyInfoInputs.cache
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.AssemblyInfo.cs
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.csproj.CoreCompileInputs.cache
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\appsettings.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\tajmautAPI.exe
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\tajmautAPI.deps.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\tajmautAPI.runtimeconfig.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\tajmautAPI.pdb
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\AutoMapper.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Azure.Core.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Azure.Identity.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Humanizer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Scrutor.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\WebDriver.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.CodeDom.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Text.Json.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets\msbuild.tajmautAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets\msbuild.build.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets.build.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\staticwebassets.development.json
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\scopedcss\bundle\tajmautAPI.styles.css
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.csproj.CopyComplete
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\refint\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.pdb
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\tajmautAPI.genruntimeconfig.cache
+D:\Emilija\Desktop\tajmaut-be-feature-Trajce_CategoriesController\obj\Debug\net6.0\ref\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\appsettings.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\tajmautAPI.exe
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\tajmautAPI.deps.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\tajmautAPI.runtimeconfig.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\tajmautAPI.pdb
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\AutoMapper.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Azure.Core.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Azure.Identity.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Humanizer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Scrutor.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\WebDriver.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Filters.Abstractions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.CodeDom.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Text.Json.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.csproj.AssemblyReference.cache
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.AssemblyInfoInputs.cache
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.AssemblyInfo.cs
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.csproj.CoreCompileInputs.cache
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets\msbuild.tajmautAPI.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets\msbuild.build.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tajmautAPI.props
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets.build.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\staticwebassets.development.json
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\scopedcss\bundle\tajmautAPI.styles.css
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.csproj.CopyComplete
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\refint\tajmautAPI.dll
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.pdb
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\tajmautAPI.genruntimeconfig.cache
+D:\Emilija\Desktop\tajmaut-be-feature-RestaurantController - Copy\obj\Debug\net6.0\ref\tajmautAPI.dll
